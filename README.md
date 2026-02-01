@@ -19,16 +19,20 @@
 
 <ul>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Emoji" width="25px" align="center"/> Based in <strong>Sri Lanka</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Emoji" width="25px" align="center"/> Based in <strong>Sri Lanka</strong>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer Emoji" width="25px" align="center"/> Currently an <strong>Undergraduate Software Engineering Student</strong>
-  </li>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="25px" align="center"/>
+  Currently an <strong>Undergraduate Software Engineering Student</strong>
+</li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox Emoji" width="25px" align="center"/> Passionate about <strong>Web Development, AI, and Open Source</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire Emoji" width="25px" align="center"/> Passionate about <strong>Web Development, AI, and Open Source</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center"/> Always learning <strong>new tools and technologies</strong> to grow as a developer
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass Emoji" width="25px" align="center"/> Explore my work at <a href="https://kanishkaudayanga.vercel.app"><strong>my personal website</strong></a>
   </li>
 </ul>
 
